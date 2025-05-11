@@ -1,0 +1,1 @@
+try except is for handling errors
